@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">تنظيف الخلفية</string>
+    <string name="clean">امسح التطبيقات المفتوحة</string>
+    <string name="ready">اضغط OK على الزر للتنظيف</string>
+</resources>
